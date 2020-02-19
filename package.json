@@ -1,0 +1,11 @@
+{
+  "name": "Gasic Mottiša",
+  "version": "1.0.0",
+  "description": "Usually sucks. Otherwise, it's mine.",
+  "main": "bot.js",
+  "author": "Matic Gostiša",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
